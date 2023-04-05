@@ -4,6 +4,8 @@ layout: default
 
 ## Storing the markdown commands for this layout here
 
+Newlines can be created by adding two spaces at the end.  
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
